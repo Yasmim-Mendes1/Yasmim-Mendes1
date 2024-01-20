@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?
-<marquee style="font-family: Inconsolata; font-weight: 500; font-size: 50px; duration: 4000ms; pause: 300ms; color: #FFC0CB; text-align: left; width: 70%; margin-left: 5%;">
-    Hello, World!;I'm Yasmim Mendes ✨
-</marquee>
+font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+World!;I'm+Yasmim+Mendes+%E2%9C%A9" width="70%" />
 <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="35%" align="right" />
 <br><br>
 <pre>
