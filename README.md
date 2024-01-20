@@ -8,4 +8,6 @@
                                           💻 programming in C ✧ Learning C# and Python
                                           🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
 </pre>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" style="margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40">
+</div>
