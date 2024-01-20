@@ -9,6 +9,6 @@
             🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" style="float: right;" />
 <br><br><br>
 </div>
