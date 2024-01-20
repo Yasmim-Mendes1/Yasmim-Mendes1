@@ -3,10 +3,10 @@
 <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="40%" align="right" />
 <br><br>
 <pre>
-                        ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
-        📖 UEMG ✧ Back-end dev ✧ Computer Engineering
-        💻 programming in C ✧ Learning C# and Python
-        🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
+                            ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
+            📖 UEMG ✧ Back-end dev ✧ Computer Engineering
+            💻 programming in C ✧ Learning C# and Python
+            🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
