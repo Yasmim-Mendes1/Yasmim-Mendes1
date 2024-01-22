@@ -3,10 +3,10 @@
   <br><br>
   <div align="left">
     <pre>
-                                                             ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
-                                           📖 UEMG ✧ Back-end dev ✧ Computer Engineering
-                                           💻 programming in C ✧ Learning C# and Python
-                                           🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
+                                                    ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
+                                 📖 UEMG ✧ Back-end dev ✧ Computer Engineering
+                                 💻 programming in C ✧ Learning C# and Python
+                                 🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
     </pre>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
