@@ -5,7 +5,7 @@
     <pre>
                                                     ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
                                  📖 UEMG ✧ Back-end dev ✧ Computer Engineering
-                                 💻 programming in C ✧ Learning C# and Python
+                                 💻 programming in C ✧ Learning C#, HTML and CSS
                                  🎮 Music ✧ Games ✧ Anime ✧ Code ✧ RPG
     </pre>
   </div>
