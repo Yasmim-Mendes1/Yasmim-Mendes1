@@ -13,7 +13,7 @@
 
 ---
 
-![Kyubey](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" alt="Kyubey" />
 
 <h2 style="color: #FFC0CB;">Sobre Mim</h2>
 <p>Sou uma desenvolvedora apaixonada por tecnologia, atualmente cursando o 4º período de Engenharia da Computação na Universidade do Estado de Minas Gerais. Com experiência em C e conhecimentos básicos em HTML e CSS, estou expandindo minhas habilidades em C# e explorando o desenvolvimento de jogos e a criação de aplicações web!</p>
