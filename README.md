@@ -37,3 +37,6 @@
 
 <h2 style="color: #FFC0CB;">Contribuições</h2>
 <p>Contribuições para melhorar códigos e adicionar novas funcionalidades são sempre bem-vindas. Se você tem sugestões ou deseja colaborar, por favor, abra um pull request ou entre em contato comigo. Estou aberta a feedbacks e pronta para colaborar em novos desafios e projetos.</p>
+
+<h2 style="color: #FFC0CB;">Contribuições</h2>
+<p>Contribuições para melhorar códigos e adicionar novas funcionalidades são sempre bem-vindas. Se você tem sugestões ou deseja colaborar, por favor, abra um pull request ou entre em contato comigo. Estou aberta a feedbacks e pronta para colaborar em novos desafios e projetos.</p>
