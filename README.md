@@ -13,19 +13,21 @@ Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
   </div>
 </div>
 
-### _Sobre mim_
+### ✧ _Sobre mim_
 Sou uma desenvolvedora apaixonada por tecnologia, atualmente cursando o 4º período de Engenharia da Computação na Universidade do Estado de Minas Gerais. Com experiência em C e conhecimentos básicos em HTML e CSS, estou expandindo minhas habilidades em C# e explorando o desenvolvimento de jogos e a criação de aplicações web!
 
 ---
 
-### _Tecnologias_
+### ✧ _Tecnologias_
 
 
-### _Objetivos_
+### ✧ _Objetivos_
 Estou focada em expandir meu conhecimento em tecnologias de front-end e back-end. Busco oportunidades para colaborar em projetos desafiadores e inovadores que me permitam crescer como desenvolvedora e contribuir para soluções tecnológicas impactantes.
 
-### _Contatos_
+---
+
+### ✧ _Contatos_
 
 
-### _Contribuições_
+### ✧ _Contribuições_
 Contribuições para melhorar códigos e adicionar novas funcionalidades são sempre bem-vindas. Se você tem sugestões ou deseja colaborar, por favor, abra um pull request ou entre em contato comigo. Estou aberta a feedbacks e pronta para colaborar em novos desafios e projetos!
