@@ -14,4 +14,4 @@ Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&pause=300&color=FFC0CB&center=true&vCenter=true&width=1300&height=140&lines=Sobre mim" width="50%" />
 </div>
 
-##_Sobre mim_
+## _Sobre mim_
