@@ -28,6 +28,8 @@ Tenho uma sólida experiência em C graças ao meu curso de Engenharia da Comput
 
 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedora, com o objetivo de dominar ainda mais linguagens e tecnologias.
 
+---
+
 ### ✧ _Objetivos_
 Estou focada em expandir meu conhecimento em tecnologias de front-end e back-end. Busco oportunidades para colaborar em projetos desafiadores e inovadores que me permitam crescer como desenvolvedora e contribuir para soluções tecnológicas impactantes.
 
