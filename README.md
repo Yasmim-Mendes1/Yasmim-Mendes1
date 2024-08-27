@@ -20,9 +20,10 @@ Sou uma desenvolvedora apaixonada por tecnologia, atualmente cursando o 4º per�
 
 
 ### _Objetivos_
-
+Estou focada em expandir meu conhecimento em tecnologias de front-end e back-end. Busco oportunidades para colaborar em projetos desafiadores e inovadores que me permitam crescer como desenvolvedora e contribuir para soluções tecnológicas impactantes.
 
 ### _Contatos_
 
 
 ### _Contribuições_
+Contribuições para melhorar códigos e adicionar novas funcionalidades são sempre bem-vindas. Se você tem sugestões ou deseja colaborar, por favor, abra um pull request ou entre em contato comigo. Estou aberta a feedbacks e pronta para colaborar em novos desafios e projetos!
