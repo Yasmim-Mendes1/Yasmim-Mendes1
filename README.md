@@ -3,10 +3,10 @@
   <br><br>
   <div align="center">
     <pre>
-                                                    ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
-                                  Wannabe Full-Stack ✧ Computer Engineering
-                                  Programming in C ✧ Learning C#, HTML and CSS
-                                  Music ✧ Games ✧ Anime ✧ Code ✧ RPG
+ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
+Wannabe Full-Stack ✧ Computer Engineering
+Programming in C ✧ Learning C#, HTML and CSS
+Music ✧ Games ✧ Anime ✧ Code ✧ RPG
     </pre>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
