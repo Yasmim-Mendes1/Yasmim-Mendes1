@@ -42,5 +42,5 @@ Estou focada em expandir meu conhecimento em tecnologias de front-end e back-end
 Contribuições para melhorar códigos e adicionar novas funcionalidades são sempre bem-vindas. Se você tem sugestões ou deseja colaborar, por favor, abra um pull request ou entre em contato comigo. Estou aberta a feedbacks e pronta para colaborar em novos desafios e projetos!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=☆+✮+★" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=☆+✮+★" width="70%" />
 <div/>
