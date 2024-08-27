@@ -6,8 +6,7 @@
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
 Wannabe Full-Stack ✧ Computer Engineering
 Programming in C ✧ Learning C#, HTML and CSS
-Music ✧ Games ✧ Anime ✧ Code ✧ RPG
-    </pre>
+Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40">
