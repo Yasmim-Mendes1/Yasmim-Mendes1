@@ -4,7 +4,6 @@
   <div align="center">
     <pre>
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
-୨ৎ ₊˚⊹♡˚₊
 Software Developer ✧ Computer Engineering
 Java ✧ Python ✧ TypeScript ✧ React ✧ SQL
 Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
