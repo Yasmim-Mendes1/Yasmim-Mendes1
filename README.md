@@ -4,8 +4,9 @@
   <div align="center">
     <pre>
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
-Wannabe Full-Stack ✧ Computer Engineering
-Programming in C ✧ Learning C#, HTML and CSS
+୨ৎ ₊˚⊹♡˚₊
+Software Developer ✧ Computer Engineering
+Java ✧ Python ✧ TypeScript ✧ React ✧ SQL
 Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -14,7 +15,9 @@ Music ✧ Games ✧ Anime ✧ Code ✧ RPG</pre>
 </div>
 
 ### ✧ _Sobre mim_
-Sou uma desenvolvedora apaixonada por tecnologia, atualmente cursando o 4º período de Engenharia da Computação na Universidade do Estado de Minas Gerais. Com experiência em C e conhecimentos básicos em HTML e CSS, estou expandindo minhas habilidades em C# e explorando o desenvolvimento de jogos e a criação de aplicações web!
+Sou estudante de Engenharia da Computação na Universidade do Estado de Minas Gerais e desenvolvedora de software!
+
+Trabalho com tecnologias como C/C++, Java, Python, TypeScript, React e SQL, desenvolvendo aplicações e buscando aprofundar meus conhecimentos em backend, arquitetura de software, sistemas distribuídos, cloud computing, inteligência artificial e machine learning.
 
 ⋆ [LinkedIn](https://www.linkedin.com/in/seu-perfil) <br>
 ⋆ [E-mail](mailto:seu-email@example.com) 
@@ -22,19 +25,57 @@ Sou uma desenvolvedora apaixonada por tecnologia, atualmente cursando o 4º per�
 ---
 
 ### ✧ _Tecnologias_
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-Tenho uma sólida experiência em C graças ao meu curso de Engenharia da Computação, onde desenvolvi habilidades fundamentais em programação e lógica. Para ampliar meus horizontes, estou aprendendo HTML5, CSS3, e C#, explorando o desenvolvimento web e as possibilidades da plataforma .NET.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedora, com o objetivo de dominar ainda mais linguagens e tecnologias.
+#### ✦ Linguagens
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ✦ Desenvolvimento Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+#### ✦ Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+
+<td valign="top" width="50%">
+
+#### ✦ Testes & Qualidade
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+#### ✦ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### ✧ _Objetivos_
-Estou focada em expandir meu conhecimento em tecnologias de front-end e back-end. Busco oportunidades para colaborar em projetos desafiadores e inovadores que me permitam crescer como desenvolvedora e contribuir para soluções tecnológicas impactantes.
+Quero construir uma carreira sólida em tecnologia, participando de projetos que exijamprojetos de alta complexidade, contribuindo para a construção de sistemas escaláveis, eficientes e bem estruturados. Busco experiências que me permitam assumir desafios cada vez maiores, aprender com profissionais experientes e gerar impacto real por meio do software. 
 
 ---
 
